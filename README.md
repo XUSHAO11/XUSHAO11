@@ -6,7 +6,7 @@
 
   <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
-- 📫 我的邮箱: [121767@qq.com](mailto:1195419506@qq.com);
+- 📫 我的邮箱: [1217671134@qq.com](mailto:1217671134@qq.com);
 
 **技术栈 与 开发工具:**
 
