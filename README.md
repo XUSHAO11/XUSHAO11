@@ -1,6 +1,5 @@
 ### Hey，我是Zixu
-<br />
-</hr>
+<hr/>
 
 你好， 我是 [梓旭](https://juejin.cn/user/3984285870859614) 
 
@@ -16,7 +15,6 @@
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./Webstorm.png"></code>
 
-----------
 
 **个人网站与技术社区:**
 
