@@ -1,17 +1,24 @@
-### Hi there 👋
+### Hey，我是Zixu
+<br />
 
-<!--
-**XUSHAO11/XUSHAO11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好， 我是 [梓旭](https://juejin.cn/user/3984285870859614) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+  <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
+
+- 📫 我的邮箱: [121767@qq.com](mailto:1195419506@qq.com);
+
+**技术栈 与 开发工具:**
+
+<code><img height="20" src="./JavaScript.png"></code>
+<code><img height="20" src="./Vue.png"></code>
+<code><img height="20" src="./git.png"></code>
+<code><img height="20" src="./Webstorm.png"></code>
+
+----------
+
+**个人网站与技术社区:**
+
+* [神奇的程序员-个人网站](https://xushao.top/)
+
+ 
