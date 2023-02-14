@@ -1,10 +1,10 @@
-### Hey，我是Zixu
+### Hey，I`m Zixu
 <hr/>
 
 你好， 我是 [梓旭](https://juejin.cn/user/3984285870859614) 
 
 
-  <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="./pusheencode.gif" width="430" height="100%" />
 
 - 📫 我的邮箱: [1217671134@qq.com](mailto:1217671134@qq.com);
 
