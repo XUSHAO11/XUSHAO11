@@ -19,6 +19,6 @@
 
 **个人网站与技术社区:**
 
-* [神奇的程序员-个人网站](https://xushao.top/)
+* [Zixu-个人网站](https://xushao.top/)
 
  
