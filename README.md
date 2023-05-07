@@ -24,8 +24,7 @@
     <div class="hhh">
       <div>
         <h3>Hello I`m Zixu</h3>
-        <img style="margin-bottom: 10px;border-radius: 6px;height: 30px;width:150px !important"; src="https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge"
-          alt="">
+        <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
           <img align="right"  style="width: 200px !important;" src="https://img1.imgtp.com/2023/05/06/V0d0pHkU.gif" alt="" class="gif01">
       </div>
     </div>
@@ -75,9 +74,7 @@
     <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; -->
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   </div>
- <div align="center"> <img src="https://github.com/XUSHAO11?template=classic&config.timezone=Asia%2FShanghai"> </div>
-  📊 &nbsp;**This week I spent my time on**
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=XUSHAO11&show_icons=true&theme=white&count_private=true)
 
-<div align="center"> <img src="https://metrics.lecoq.io/XUSHAO11?template=classic&config.timezone=Asia%2FShanghai"> </div>
 </body>
 </html>
