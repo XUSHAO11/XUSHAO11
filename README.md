@@ -75,5 +75,6 @@
     <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; -->
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   </div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XUSHAO11)](https://github.com/XUSHAO11/github-readme-stats)
 </body>
 </html>
