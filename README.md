@@ -26,12 +26,10 @@
         <h3>Hello I`m Zixu</h3>
         <img style="margin-bottom: 10px;border-radius: 6px;height: 30px;width:150px !important"; src="https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge"
           alt="">
+          <img align="right"  style="width: 200px !important;" src="https://img1.imgtp.com/2023/05/06/V0d0pHkU.gif" alt="" class="gif01">
       </div>
     </div>
   </div>
-  <div>
-          <img align="right"  style="width: 200px !important;" src="https://img1.imgtp.com/2023/05/06/V0d0pHkU.gif" alt="" class="gif01">
-        </div>
   <div class="box1">
     <div class="love">
       <div class="mainBox-1">
@@ -76,20 +74,6 @@
     </div>
     <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; -->
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <script>
-      WIDGET = {
-        "CONFIG": {
-          "layout": "1",
-          "width": "450",
-          "height": "150",
-          "background": "2",
-          "dataColor": "000000",
-          "borderRadius": "5",
-          "key": "c5902b29fdb840b789d80b08d525b05b"
-        }
-      }
-    </script>
-    <script src="https://widget.qweather.net/standard/static/js/he-standard-common.js?v=2.0"></script>
   </div>
 </body>
 </html>
