@@ -1,4 +1,4 @@
-### About me
+### About me <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -75,6 +75,9 @@
     <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; -->
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   </div>
- <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+ <div align="center"> <img src="https://github.com/XUSHAO11?template=classic&config.timezone=Asia%2FShanghai"> </div>
+  📊 &nbsp;**This week I spent my time on**
+
+<div align="center"> <img src="https://metrics.lecoq.io/XUSHAO11?template=classic&config.timezone=Asia%2FShanghai"> </div>
 </body>
 </html>
