@@ -74,7 +74,7 @@
     <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; -->
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   </div>
-  <span><img src="https://github-readme-stats.vercel.app/api?username=XUSHAO11&show_icons=true&theme=white&count_private=true"></span>  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XUSHAO11&theme=white&layout=compact"></span> 
+   <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XUSHAO11&theme=white&layout=compact" style="width=100%"></span> 
   
     
 </body>
