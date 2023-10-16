@@ -25,7 +25,7 @@
       <div>
         <h3>Hello I`m Zixu</h3>
         <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
-          <img align="right"  style="width: 200px !important;" src="https://img1.imgtp.com/2023/05/06/V0d0pHkU.gif" alt="" class="gif01">
+          <img align="right"  style="width: 200px !important;" src="https://zhangajian.com/images/resource/me.jpg" alt="" class="gif01">
       </div>
     </div>
   </div>
