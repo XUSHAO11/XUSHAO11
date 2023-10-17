@@ -1,4 +1,5 @@
-### About me <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# About me <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -9,6 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+</body>
   <div class="card">
     <div class="tools">
       <div class="circle">
@@ -54,7 +56,7 @@
     <h2> 📫 How to reach me:</h2>
     <a
       href="tencent://message/?Menu=yes&uin=1217671134&Site=80fans&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a545b1714f9d45"><img
-        height="40" src="https://img.sj33.cn/uploads/202302/7-230215235AT07.png"></a>
+        height="40" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Gmail.svg"></a>
     &nbsp;
 <!--     <a href="mailto:m13333804573@163.com"><img height="40" src="https://img1.imgtp.com/2023/05/06/CkzK7w7G.svg"></a> -->
     <h2>👨🏻‍💻 Languages and Tools</h2> <br />
@@ -69,10 +71,14 @@
       <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?2022111015320"></code>
       <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"></code>
     </div>
-    <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; -->
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <br>
   </div>
-   <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XUSHAO11&theme=white&layout=compact" style="width=100%"></span> 
-  
+  <img align="left"  width="500" src="https://github-readme-stats.vercel.app/api?username=XUSHAO11"></code>
+   <img 
+  align="left"  
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=XUSHAO11&theme=white&layout=compact" width="500" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&amp;hide=smalltalk&amp;theme=buefy&amp;layout=compact&amp;hide_border=true" style="max-width: 100%;">
+   </span> 
+     <img align="left"  width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=XUSHAO11&repo=Sunflower">
+  <img src="https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67" data-canonical-src="https://imgur.com/rilHVxA.png" style="max-width: 100%;">
 </body>
 </html>
