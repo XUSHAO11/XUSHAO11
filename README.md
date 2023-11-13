@@ -73,12 +73,6 @@
     </div>
     <br>
   </div>
-  <img align="left"  width="500" src="https://github-readme-stats.vercel.app/api?username=XUSHAO11"></code>
-   <img 
-  align="left"  
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=XUSHAO11&theme=white&layout=compact" width="500" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&amp;hide=smalltalk&amp;theme=buefy&amp;layout=compact&amp;hide_border=true" style="max-width: 100%;">
-   </span> 
-     <img align="left"  width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=XUSHAO11&repo=Sunflower">
-  <img src="https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67" data-canonical-src="https://imgur.com/rilHVxA.png" style="max-width: 100%;">
+  
 </body>
 </html>
